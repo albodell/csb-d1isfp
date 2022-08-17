@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67e596c63a287182c731298845f7e5be",
+    "revision": "0e79481d19bf26de56863452a9975046",
     "url": "https://albodell.github.io/csb-d1isfp/index.html"
   },
   {
-    "revision": "63d42a27d65c2a2b8686",
-    "url": "https://albodell.github.io/csb-d1isfp/static/css/main.94410408.chunk.css"
+    "revision": "3de67e18b70867dc1654",
+    "url": "https://albodell.github.io/csb-d1isfp/static/css/main.e958e39f.chunk.css"
   },
   {
-    "revision": "0db9be2d789579f2adcb",
-    "url": "https://albodell.github.io/csb-d1isfp/static/js/2.7fac5f34.chunk.js"
+    "revision": "67921a616685c542606e",
+    "url": "https://albodell.github.io/csb-d1isfp/static/js/2.070be943.chunk.js"
   },
   {
-    "revision": "63d42a27d65c2a2b8686",
-    "url": "https://albodell.github.io/csb-d1isfp/static/js/main.00240d8d.chunk.js"
+    "revision": "3de67e18b70867dc1654",
+    "url": "https://albodell.github.io/csb-d1isfp/static/js/main.f2071e4f.chunk.js"
   },
   {
     "revision": "0091e823daadb4890b60",
